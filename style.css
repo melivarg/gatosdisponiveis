@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  text-decoration: none;
+}
+
+:root {
+  font-family: 'Mulish';
+  font-size: 62.5%;
+}
+
+body {
+  background: #faf0c3;
+  padding: 7.2rem 10.4rem;
+}
+
+header h1 {
+  font-weight: 900 bold;
+  font-size: 5.6rem;
+  line-height: 7.2rem;
+  color: #fb7070;
+  text-align: center;
+}
+
+header p {
+  color: #fb7070; 
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 4rem;
+  text-align: center;
+}
+
+main {
+  margin-top: 6.2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 36.7rem);
+  row-gap: 4.8rem;
+  column-gap: 6rem;
+  justify-content: center;
+}
+
+.card {
+  background: #7c37a4;
+  border: 2px solid #7c37a4;
+  border-radius: .8rem;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 1rem 1rem 2.5rem rgba(68, 0, 97, 0.458);
+}
+
+.card:hover {
+  background: #49076f;
+  transition: all 0.5s;
+  
+}
+
+.card p {
+  color: #faf0c3 ; 
+  font-size: 1.8rem;
+  font-weight: 600;
+  padding: 2.4rem 3.2rem 3.2rem;
+}
+
+.card h2 {
+  color: #fc8e8e;
+  font-size: 3.6rem;
+  font-weight: 900;
+  padding: 2.4rem 3.2rem 0;
+}
+
+@media (max-width: 800px) {
+  header h1 {
+  font-weight: 900 bold;
+  font-size: 2.6rem;
+  line-height: 2.6rem;
+  color: #fb7070;
+  text-align: center;
+}
+
+  header p {
+  color: #fb7070; 
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 2rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+  main {
+  margin-top: 3.1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 18.3rem);
+  row-gap: 4.8rem;
+  justify-content: center;
+}
+
+  img {
+  object-fit: cover;
+  width: 18rem;
+  height: 6.9rem;
+}
+
+  .card p {
+  color: #faf0c3 ; 
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 1.2rem 1.6rem 1.6rem;
+}
+
+.card h2 {
+  color: #fc8e8e;
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding: 1.2rem 1.6rem 0;
+}
+
+
+}
