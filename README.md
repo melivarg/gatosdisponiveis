@@ -1,13 +1,13 @@
-<h1 align="center"> Página de gatos disponíveis para adoção :cat: </h1>
+<h1 align="center"> Página de gatos para adoção :cat: </h1>
 
 <p align="center">
-Página de gatos para adoção do projeto A Humana Dos Gatos
+Página de gatos para adoção do projeto de proteção animal "A Humana Dos Gatos"
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-Aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-Aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
