@@ -31,5 +31,4 @@ A base do projeto é do que foi proposto pelo curso Explorer da RocketSeat, mas 
 
 ---
 
-Feito com ♥ por mim :cake:
-# gatosdisponiveis
+Feito com ♥ por mim :cat:
